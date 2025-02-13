@@ -1,3 +1,3 @@
 # websites-demo
-This is my first repository.
+This is my first  Git repository.
 author- Rushikesh Dattatraya Vadhane
